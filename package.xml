@@ -1085,6 +1085,7 @@
         <members>MY_Partner__c.Active__c</members>
         <members>MY_Partner__c.Address__c</members>
         <members>MY_Partner__c.Description__c</members>
+        <members>MY_Partner__c.ICCU_Demo__c</members>
         <members>MY_Partner__c.TXFSC__c</members>
         <members>MY_Partner__c.Website__c</members>
         <members>MY_Partner__c.autoid__c</members>

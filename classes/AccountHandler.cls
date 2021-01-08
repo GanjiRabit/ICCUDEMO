@@ -2,6 +2,7 @@
 public class AccountHandler {
 public static Account insertNewAccount()
 {
+//testing for mergepull
      Account act = New Account();
         act.Name = 'sri';
     try {

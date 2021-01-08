@@ -2261,6 +2261,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>MY_Partner__c.ICCU_Demo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>MY_Partner__c.TXFSC__c</field>
         <readable>true</readable>
     </fieldPermissions>
