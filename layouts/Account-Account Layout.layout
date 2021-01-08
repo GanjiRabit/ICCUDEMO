@@ -51,6 +51,10 @@
                 <behavior>Edit</behavior>
                 <field>Customer_Number__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Pull_Request_Demo__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

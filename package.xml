@@ -195,6 +195,7 @@
         <members>Account.Phone</members>
         <members>Account.Potential_Value__c</members>
         <members>Account.Preferred_Contact_Method__c</members>
+        <members>Account.Pull_Request_Demo__c</members>
         <members>Account.Rating</members>
         <members>Account.SLAExpirationDate__c</members>
         <members>Account.SLASerialNumber__c</members>
