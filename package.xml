@@ -195,6 +195,7 @@
         <members>Account.Phone</members>
         <members>Account.Potential_Value__c</members>
         <members>Account.Preferred_Contact_Method__c</members>
+        <members>Account.Pull_Request_Demo__c</members>
         <members>Account.Rating</members>
         <members>Account.SLAExpirationDate__c</members>
         <members>Account.SLASerialNumber__c</members>
@@ -1085,6 +1086,7 @@
         <members>MY_Partner__c.Active__c</members>
         <members>MY_Partner__c.Address__c</members>
         <members>MY_Partner__c.Description__c</members>
+        <members>MY_Partner__c.ICCU_Demo__c</members>
         <members>MY_Partner__c.TXFSC__c</members>
         <members>MY_Partner__c.Website__c</members>
         <members>MY_Partner__c.autoid__c</members>

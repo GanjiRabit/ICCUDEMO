@@ -396,6 +396,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.Pull_Request_Demo__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Account.Rating</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2257,6 +2262,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>MY_Partner__c.Description__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>MY_Partner__c.ICCU_Demo__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
